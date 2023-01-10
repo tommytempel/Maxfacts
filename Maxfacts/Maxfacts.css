@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    height: 700px;
+}
+
+h1 {
+    margin-left: 150px;
+}
+
+
+.photo {
+
+}
+
+.factsone {
+    width: 382px;
+    border: 25px solid lightblue;
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.quiz {
+    width: 382px;
+    border: 25px solid lightblue;
+    margin-left: 50px;
+
+}
