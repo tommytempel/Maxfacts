@@ -4,14 +4,16 @@ body {
 }
 
 img {
-    height: 700px;
+    height: 550px;
 }
 
 h1 {
     margin-left: 150px;
 }
 
-
+li {
+    margin: 10px;
+}
 .photo {
 
 }
@@ -25,9 +27,10 @@ h1 {
     flex-direction: column;
 }
 
+
+
 .quiz {
     width: 382px;
     border: 25px solid lightblue;
     margin-left: 50px;
-
 }
