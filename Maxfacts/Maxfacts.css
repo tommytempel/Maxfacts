@@ -3,8 +3,8 @@ body {
     flex-direction: row;
 }
 
-img {
-    height: 550px;
+.img {
+    height: 650px;
 }
 
 h1 {
@@ -27,7 +27,10 @@ li {
     flex-direction: column;
 }
 
-
+.factpic {
+    height: 350px;
+    margin-top: 15px;
+}
 
 .quiz {
     width: 382px;
