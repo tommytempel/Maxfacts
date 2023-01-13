@@ -1,39 +1,44 @@
 body {
     display: flex;
     flex-direction: row;
+    background-color: beige;
 }
 
 .img {
-    height: 650px;
+    height: 625px;
 }
 
 h1 {
-    margin-left: 150px;
+    margin-left: 10px;
 }
 
 li {
     margin: 10px;
 }
 .photo {
-
+    border: 25px groove orange;
 }
 
 .factsone {
     width: 382px;
-    border: 25px solid lightblue;
+    border: 25px groove orange;
     margin-left: 50px;
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
 
-.factpic {
-    height: 350px;
+#factpic {
+    width: 300px;
+    height: 325px;
     margin-top: 15px;
+    margin-left: 15px;
 }
 
 .quiz {
     width: 382px;
-    border: 25px solid lightblue;
+    border: 25px groove orange;
     margin-left: 50px;
 }
+
+
